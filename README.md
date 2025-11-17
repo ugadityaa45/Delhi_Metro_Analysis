@@ -61,7 +61,7 @@ Matplotlib / Plotting Libraries (optional)
 
 🔧 How to Run the Project
 1. Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/ugadityaa45/Delhi_Metro_Analysis.git 
 
 2. Install required libraries
 pip install pandas networkx matplotlib
